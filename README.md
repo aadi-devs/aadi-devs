@@ -56,7 +56,7 @@ I build web experiences, backend services, digital platforms, and cross-platform
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadi-devs&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub profile statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-devs&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-devs&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=aadi-devs&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
