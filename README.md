@@ -1,74 +1,110 @@
-<h1 align="center">Aditya Bishnoi (AADI)</h1>
-<h3 align="center">Full Stack Developer | Web Applications, APIs & Desktop Software</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://victus.wtf"><img src="https://img.shields.io/badge/Portfolio-victus.wtf-0e75b6?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:aadi@victus.wtf"><img src="https://img.shields.io/badge/Email-aadi%40victus.wtf-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.gg/aadi.dev"><img src="https://img.shields.io/badge/Discord-aadi.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+# Aditya Bishnoi (Aadi)
+
+### Full-Stack Developer · Web Applications · APIs · Desktop Tools
+
+I build web experiences, backend services, digital platforms, and cross-platform tools.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-victus.wtf-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://victus.wtf)
+[![GitHub](https://img.shields.io/badge/GitHub-aadi--devs-181717?style=for-the-badge&logo=github)](https://github.com/aadi-devs)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victuslofimusic@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aadi-devs&style=flat-square&color=64748b&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## About
+## About Me
 
-Full stack developer building web applications, APIs, and cross-platform desktop tools. I work across the front end, back end, and deployment, with a focus on clean code, practical solutions, and products people actually use.
-
-## Currently
-
-- Building Discord bots and integrations with the Discord API, including slash commands, event handling, and OAuth2 flows
-- Developing Workaholic, a Discord bot that [one-line description of what it does]
-- Open to freelance projects and full-time roles in web and desktop development
-
-## Experience
-
-- Hosted and managed Discord servers and bots, including setup, moderation tools, and ongoing maintenance
-- Built and deployed e-commerce websites and online storefronts
-- Developed digital marketplace platforms for product listings, transactions, and user accounts
-- Set up and administered Minecraft game servers and supporting websites
+- 💻 I work across frontend development, backend systems, APIs, authentication, and deployment.
+- 🌱 Currently learning and building Discord bots and integrations with the Discord API, including slash commands, event handling, and OAuth2.
+- 🧩 Interested in developer tools, online platforms, automation, and community infrastructure.
+- ⚡ Fun fact: I'm a workaholic.
 
 ## Featured Projects
 
-**Anuverse Hosting**: Website for Minecraft and web hosting services.
-[Source](https://github.com/aadi-devs/Anuverse-Web)
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://www.zorzer.qzz.io">Zorzer</a></h3>
+      <p>A project focused on network stress-testing tools.</p>
+      <a href="https://www.zorzer.qzz.io">Visit project →</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/aadi-devs/Anuverse-Web">Anuverse Hosting</a></h3>
+      <p>A website project for Minecraft and web hosting services.</p>
+      <a href="https://github.com/aadi-devs/Anuverse-Web">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://www.empirialprops.com">Empirial Props</a></h3>
+      <p>A prop-firm and trading-education content platform.</p>
+      <a href="https://www.empirialprops.com">Visit website →</a>
+    </td>
+  </tr>
+</table>
 
-**Empirialprops**: Website for a prop firm and trading education content.
-[Live](https://www.empirialprops.com)
+> Explore more projects on my [GitHub profile](https://github.com/aadi-devs) or [portfolio](https://victus.wtf).
 
-**Workaholic**: Discord bot for [one-line description].
-[Source](https://github.com/aadi-devs/REPO-NAME)
+## GitHub Analytics
 
-## Tech Stack
+<div align="center">
 
-**Languages:** JavaScript, TypeScript, Python, PHP, C#, Go, SQL
-**Frontend:** React, Next.js, Vue, Angular, Tailwind CSS
-**Backend:** Node.js, Express, NestJS, Flask, Spring
-**Desktop & Mobile:** Electron, .NET, React Native, Kotlin
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
-**DevOps & Tools:** Docker, Nginx, Linux, AWS, Azure, Git
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aadi-devs&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-devs&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
 
-## GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-devs&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aadi-devs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-devs&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-devs&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi-devs&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+<div align="center">
+
+[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadi-devs&theme=github-compact&hide_border=true)](https://github.com/aadi-devs)
+
+</div>
+
+## Languages, Tools & Technologies
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,html,css" alt="JavaScript, TypeScript, Python, Go, PHP, HTML, and CSS" />
 </p>
 
-## Commit Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi-devs&theme=react-dark&hide_border=true&custom_title=Commit%20Activity&bg_color=0d1117" alt="Commit Activity" />
+### Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind" alt="React, Next.js, Vue, Angular, and Tailwind CSS" />
 </p>
 
-## Get in Touch
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,postgres,mysql,mongodb,redis,sqlite,firebase" alt="Node.js, Express, NestJS, Flask, PostgreSQL, MySQL, MongoDB, Redis, SQLite, and Firebase" />
+</p>
 
-Email: [aadi@victus.wtf](mailto:aadi@victus.wtf) | Portfolio: [victus.wtf](https://victus.wtf)
+### Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,nginx,linux,figma" alt="Git, GitHub, Docker, AWS, Azure, Nginx, Linux, and Figma" />
+</p>
+
+## Connect
+
+<div align="left">
+
+- **Portfolio:** [victus.wtf](https://victus.wtf)
+- **Email:** [victuslofimusic@gmail.com](mailto:victuslofimusic@gmail.com)
+- **Instagram:** [@aadi.bishnoi](https://instagram.com/aadi.bishnoi)
+- **Discord:** [aadi.dev community](https://discord.gg/aadi.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore my repositories.*
+
+</div>
