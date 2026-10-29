@@ -53,10 +53,10 @@ I build web experiences, backend services, digital platforms, and cross-platform
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aadi-devs&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub profile statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-devs&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub profile statistics" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used programming languages" />
 
-<img src="https://streak-stats.demolab.com/?user=aadi-devs&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=aadi-devs&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
 
 </div>
 
@@ -64,7 +64,7 @@ I build web experiences, backend services, digital platforms, and cross-platform
 
 <div align="center">
 
-[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadi-devs&theme=github-compact&hide_border=true)](https://github.com/aadi-devs)
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
 </div>
 
